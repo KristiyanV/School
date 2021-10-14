@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\EvenAndOddSubtraction\bin\Debug\EvenAndOddSubtraction.exe.config
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\EvenAndOddSubtraction\bin\Debug\EvenAndOddSubtraction.exe
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\EvenAndOddSubtraction\bin\Debug\EvenAndOddSubtraction.pdb
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\EvenAndOddSubtraction\obj\Debug\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\EvenAndOddSubtraction\obj\Debug\EvenAndOddSubtraction.exe
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\EvenAndOddSubtraction\obj\Debug\EvenAndOddSubtraction.pdb
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\EvenAndOddSubtraction\obj\Debug\EvenAndOddSubtraction.csproj.AssemblyReference.cache

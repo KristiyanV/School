@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\02.PrintNumberInReverseOrder\bin\Debug\02.PrintNumberInReverseOrder.exe.config
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\02.PrintNumberInReverseOrder\bin\Debug\02.PrintNumberInReverseOrder.exe
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\02.PrintNumberInReverseOrder\bin\Debug\02.PrintNumberInReverseOrder.pdb
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\02.PrintNumberInReverseOrder\obj\Debug\02.PrintNumberInReverseOrder.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\02.PrintNumberInReverseOrder\obj\Debug\02.PrintNumberInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\02.PrintNumberInReverseOrder\obj\Debug\02.PrintNumberInReverseOrder.exe
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\02.PrintNumberInReverseOrder\obj\Debug\02.PrintNumberInReverseOrder.pdb
+C:\Users\Student\Documents\School\Krisi12b\01.DayOfWeek\02.PrintNumberInReverseOrder\bin\Debug\02.PrintNumberInReverseOrder.exe.config
+C:\Users\Student\Documents\School\Krisi12b\01.DayOfWeek\02.PrintNumberInReverseOrder\bin\Debug\02.PrintNumberInReverseOrder.exe
+C:\Users\Student\Documents\School\Krisi12b\01.DayOfWeek\02.PrintNumberInReverseOrder\bin\Debug\02.PrintNumberInReverseOrder.pdb
+C:\Users\Student\Documents\School\Krisi12b\01.DayOfWeek\02.PrintNumberInReverseOrder\obj\Debug\02.PrintNumberInReverseOrder.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\School\Krisi12b\01.DayOfWeek\02.PrintNumberInReverseOrder\obj\Debug\02.PrintNumberInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\School\Krisi12b\01.DayOfWeek\02.PrintNumberInReverseOrder\obj\Debug\02.PrintNumberInReverseOrder.exe
+C:\Users\Student\Documents\School\Krisi12b\01.DayOfWeek\02.PrintNumberInReverseOrder\obj\Debug\02.PrintNumberInReverseOrder.pdb

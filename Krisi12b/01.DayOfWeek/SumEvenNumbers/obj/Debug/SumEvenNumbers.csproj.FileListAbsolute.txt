@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\SumEvenNumbers\bin\Debug\SumEvenNumbers.exe.config
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\SumEvenNumbers\bin\Debug\SumEvenNumbers.exe
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\SumEvenNumbers\bin\Debug\SumEvenNumbers.pdb
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\SumEvenNumbers\obj\Debug\SumEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\SumEvenNumbers\obj\Debug\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\SumEvenNumbers\obj\Debug\SumEvenNumbers.exe
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\SumEvenNumbers\obj\Debug\SumEvenNumbers.pdb

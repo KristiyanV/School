@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+}
+.first{
+    color: violet;
+}
+h2{
+    font-weight: bold;
+}
+li{
+    border: 2px solid yellow;
+}
+span{
+    background: blue;
+    color: white;
+}

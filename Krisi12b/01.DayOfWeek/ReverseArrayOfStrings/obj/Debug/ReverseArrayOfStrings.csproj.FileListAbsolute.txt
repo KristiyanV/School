@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe.config
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.pdb
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.exe
+C:\Users\Student\Documents\Krisi12B\01.DayOfWeek\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.pdb
