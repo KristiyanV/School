@@ -1,0 +1,41 @@
+header{
+    background-color: #fa9f9e ;
+}
+h1{
+    color: rgb(255, 0, 0);
+    text-align:center;
+    padding: 0 200px;
+}
+p{
+    font-size: 22px;
+}
+section{
+    padding: 5px 10px;
+    height: 550px;
+    border: 2px solid red;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+section h2{
+    color: red;
+    text-decoration: underline;
+}
+main{
+    text-align: center;
+}
+footer{
+    margin-top: 20px;
+    background-color: #fa9f9e ;
+    text-align: center;
+    padding: 5px;
+}
+footer p{
+    margin: 0;
+}
+footer a{
+    padding: 0 10px;
+}
