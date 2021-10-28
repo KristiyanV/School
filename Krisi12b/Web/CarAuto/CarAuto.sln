@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarAuto", "CarAuto\CarAuto.csproj", "{23CEF634-3BA5-4B7B-B6B7-53E3E5B32DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{DFAC271F-64BE-462C-9015-F5D4777E0C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{7421E8CB-EC9A-4632-91AF-2BF4AA9F70F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23CEF634-3BA5-4B7B-B6B7-53E3E5B32DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CEF634-3BA5-4B7B-B6B7-53E3E5B32DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CEF634-3BA5-4B7B-B6B7-53E3E5B32DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CEF634-3BA5-4B7B-B6B7-53E3E5B32DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAC271F-64BE-462C-9015-F5D4777E0C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAC271F-64BE-462C-9015-F5D4777E0C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAC271F-64BE-462C-9015-F5D4777E0C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAC271F-64BE-462C-9015-F5D4777E0C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7421E8CB-EC9A-4632-91AF-2BF4AA9F70F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7421E8CB-EC9A-4632-91AF-2BF4AA9F70F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7421E8CB-EC9A-4632-91AF-2BF4AA9F70F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7421E8CB-EC9A-4632-91AF-2BF4AA9F70F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED06385C-363A-4E8F-8A45-5A4830CF3C9C}
+	EndGlobalSection
+EndGlobal
